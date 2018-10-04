@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 607c4705767b63641b2921966b876e62
+timeCreated: 1507647920
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - TokenRed: {fileID: 1022396704272648, guid: ba922dc25df212c4db071285cc82ebc7, type: 2}
+  - TokenGreen: {fileID: 1908800756853426, guid: 684273ea92049924abae7a33b63e5268,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
